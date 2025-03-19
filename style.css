@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(232, 24, 24);
+    color: rgb(193, 210, 225);
+}
+.dark{
+    background-color: blue;
+    color: black;
+}
+.light{
+    background-color: rgb(240, 81, 179);
+    color: azure;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(103, 103, 134);
+}
+
